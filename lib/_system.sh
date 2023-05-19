@@ -35,7 +35,7 @@ system_git_clone() {
   sleep 2
 
   sudo su - deploy <<EOF
-  git clone https://github.com/lolalos/whsapodevactualizado.git /home/deploy/whsapodevactualizado/
+  git clone https://github.com/lolalos/whasapodev.git /home/deploy/whasapodev/
 EOF
 
   sleep 2
